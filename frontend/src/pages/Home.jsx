@@ -137,8 +137,9 @@ function Home() {
 
   // Get Time
   if (type === "get_time") {
-    // if (response) speak(response);
-  }
+  const now = new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' });
+  speak(`The current time is ${now}`);
+}
 
   // Get Month
   if (type === "get_month") { }
