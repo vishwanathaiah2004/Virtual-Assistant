@@ -10,7 +10,7 @@
   <br />
   <strong>React + Node + Express + MongoDB + Gemini API</strong>
   <br />
-  <a href="https://your-live-demo-link.com"><strong>🌍 Live Demo</strong></a> •
+  <a href="https://virtual-assistant-byvishwanath.onrender.com/"><strong>🌍 Live Demo</strong></a> •
   <a href="#-features">✨ Features</a> •
   <a href="#️-installation">⚙️ Setup</a> •
   <a href="#-tech-stack">🧰 Tech Stack</a> •
