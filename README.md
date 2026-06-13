@@ -24,15 +24,17 @@
 ---
 ## 🎥 Demo Video
 
-<a href="https://www.linkedin.com/posts/h-m-vishwanathaiah-02926932a_ai-voiceassistant-geminiapi-ugcPost-7382585705010651136-lLbN/" target="_blank">
-  <img src="https://img.shields.io/badge/▶️-Watch%20Demo%20on%20LinkedIn-blue?style=for-the-badge" alt="Watch Demo Video">
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/posts/h-m-vishwanathaiah-02926932a_ai-voiceassistant-geminiapi-ugcPost-7382585705010651136-lLbN/">
+    <img src="./6fa7893c-3fec-4e7c-9da5-e90b1693cd80.png" alt="Watch Demo Video" width="320">
+  </a>
+</p>
 
-## 🎥 Project Demo
-
-👉 **Watch the full demo on LinkedIn:**  
-https://www.linkedin.com/posts/h-m-vishwanathaiah-02926932a_ai-voiceassistant-geminiapi-ugcPost-7382585705010651136-lLbN/
-
+<p align="center">
+  <a href="https://www.linkedin.com/posts/h-m-vishwanathaiah-02926932a_ai-voiceassistant-geminiapi-ugcPost-7382585705010651136-lLbN/">
+    <img src="https://img.shields.io/badge/▶-Watch%20Live%20Demo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 
 <p align="center">
