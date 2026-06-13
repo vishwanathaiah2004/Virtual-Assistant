@@ -18,6 +18,22 @@
 </p>
 
 ---
+## 🎥 Demo Video
+
+<a href="https://www.linkedin.com/posts/h-m-vishwanathaiah-02926932a_ai-voiceassistant-geminiapi-ugcPost-7382585705010651136-lLbN/" target="_blank">
+  <img src="https://img.shields.io/badge/▶️-Watch%20Demo%20on%20LinkedIn-blue?style=for-the-badge" alt="Watch Demo Video">
+</a>
+
+## 🎥 Project Demo
+
+👉 **Watch the full demo on LinkedIn:**  
+https://www.linkedin.com/posts/h-m-vishwanathaiah-02926932a_ai-voiceassistant-geminiapi-ugcPost-7382585705010651136-lLbN/
+
+
+
+<p align="center">
+  <b>▶️ Click the image above to watch the demo on LinkedIn</b>
+</p>
 
 ## ✨ Features
 
