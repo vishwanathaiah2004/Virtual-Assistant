@@ -1,6 +1,10 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712102.png" alt="Logo" width="200" height="200">
+  <img src="./6fa7893c-3fec-4e7c-9da5-e90b1693cd80.png" alt="AI Virtual Assistant Logo" width="300">
+</p>
+
+<p align="center">
+  Voice-Powered Intelligent Assistant built with Gemini AI, Speech Recognition, and Real-Time Automation
 </p>
 
 <h1 align="center">🧠 Voice AI Virtual Assistant</h1>
